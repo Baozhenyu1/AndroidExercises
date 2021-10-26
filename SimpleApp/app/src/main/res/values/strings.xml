@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="interact_message">You clicked the button!</string>
+</resources>
